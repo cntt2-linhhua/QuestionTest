@@ -6,6 +6,7 @@ function findTheLowerCaseWOrd(str) {
     res=res.concat(str[i]);
   }
 
+  
   return res;
 }
 
